@@ -1,0 +1,24 @@
+.App {
+  /*
+  background: #f5f5f5;
+  background-image: linear-gradient(to right top, #260537, #2e3873, #1a6dab, #00a5db, #00deff);
+  background-image: linear-gradient(to right top, #d78bff, #ad87f8, #8283ed, #537ddf, #0075cd);
+  background-image: linear-gradient(to right top, #8bc3ff, #71aff3, #569be6, #3888da, #0075cd);
+  background-image: linear-gradient(to right top, #2340ff, #0062ff, #007dff, #0093ff, #34a8ff);
+  background-image: linear-gradient(to right top, #6277ff, #4d85ff, #3a92ff, #309eff, #34a8ff);
+  background-image: linear-gradient(to right top, #000c5a, #0a3184, #1457ad, #227ed7, #34a8ff);
+  background-image: linear-gradient(to right top, #000c5a, #0a3184, #1457ad, #227ed7, #34a8ff);
+  background-attachment: fixed;
+  min-height: 100vh;
+  */
+}
+
+.app-bg {
+  background: lightblue;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  background-image: linear-gradient(to right top, #000c5a, #0a3184, #1457ad, #227ed7, #34a8ff);
+  z-index: -9;
+  opacity: .9;
+}

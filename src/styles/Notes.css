@@ -1,0 +1,16 @@
+@import url("./constants.css");
+
+.notes-page-container {
+    padding: var(--page-padding);
+    display: flex;
+    justify-content: space-between;
+    border: solid 0px;
+}
+
+.notes-container {
+    display: flex;
+    justify-content: space-between;
+    border: solid 0px;
+    width: 85%;
+    height: fit-content;
+}

@@ -1,0 +1,14 @@
+.inactive-notes-container {
+    border: solid 0px;
+    width: 50%;
+    background: #f2f2f2;
+    padding: 1rem;
+    border-radius: 4px;
+    margin-left: 1rem;
+    height: fit-content;
+}
+
+.inactive-notes-container h3 {
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
